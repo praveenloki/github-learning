@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My second web page</title>
+    <style>
+        {
+            background-color:brown;
+        }
+    </style>
+</head>
+<body>
+<form>
+<label for="Email">Email</label><br>
+<input type="Email" name="" id="Email"><br>
+<label for="Password">Password</label><br>
+<input type="Password" name="" id="Password"><br>
+<label for="Firstname">Firstname</label><br>
+<input type="Firstname" name="" id="Firstname"><br>
+<label for="Lastname">Lastname</label><br>
+<input type="Lastname" name="" id="Lastname"><br>
+</form>
+</body>
+</html>
