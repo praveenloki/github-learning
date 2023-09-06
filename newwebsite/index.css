@@ -1,0 +1,45 @@
+body{
+    background-color: aquamarine;
+}
+.box-s{
+    background-color: white;
+    margin-top: 60px;
+    padding:30px 10px;
+}
+.fa{
+    color: blue;
+}
+a{
+    border-bottom: 2px solid blue;
+}
+p{
+    margin: 30px;
+}
+.box{
+    padding: 30px 0px;
+}
+.box-s2{
+    background-color: white;
+    margin-top: 60px;
+    padding: 30px 10px;
+}
+.box-s3{
+    background-color: white;
+    margin-top: 60px;
+    padding: 30px 10px;
+}
+.box-s4{
+    background-color: white;
+    margin-top: 60px;
+    padding: 30px 10px;
+}
+.box-s5{
+    background-color: white;
+    margin-top: 60px;
+    padding: 30px 10px;
+}
+.box-s6{
+    background-color: white;
+    margin-top: 60px;
+    padding: 30px 10px;
+}
