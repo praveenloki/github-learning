@@ -1,0 +1,161 @@
+.container{
+    height: 10vh;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 12px;
+}
+.hot{
+    color: orange;
+}
+.deli{
+    padding-left: 150px;
+}
+.map{
+    padding-top:22px;
+    padding-right: 50px;
+    
+    
+}
+.cur{
+    padding-top: 22px;
+    display: flex;
+    text-align: center;
+    padding-right:300px;
+}
+.cur h3{
+    padding-bottom: 200px;
+}
+.container1{
+    height: 80vh;
+    background-image: url(con1org.png);
+    
+
+}
+
+.ellai{
+   padding-left: 800px;
+    margin-top: -150px;
+}
+.container2{
+    height: 80vh;
+    padding: 24px;
+    
+    
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+}
+.how{
+    text-align: center;
+    color: orange;
+    height: 10vh;
+}
+.container4{
+    height: 35vh;
+    background-image: url(bg.png);
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 80px;
+}
+.dd{
+    color: orange;
+    padding-top: 40px;
+    
+}
+.lt{
+    color: orange;
+    padding-top: 40px;
+}
+.qd{
+    color: orange;
+    padding-top: 40px;
+}
+.hr{
+    padding-top: 40px;
+}
+.container5{
+    height: 70vh;
+    padding-top: 50px;
+    background-image: url(Rectangle\ 338.png);
+    width: 1330px;
+}
+.by{
+    padding-left: 70px;
+}
+.foods{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 12px;
+}
+.container6{
+    height: 70vh;
+}
+.text{
+    padding-left: 70px;
+}
+.butt{
+    color: white;
+    background-color: orange;
+    cursor: pointer;
+    border-radius: 12px;
+    padding-right: 40px;
+    padding-left: 40px;
+    
+}
+.im5{
+    padding-left:600px;
+    margin-top: -300px;
+}
+.container7{
+    height: 70vh;
+}
+.pop{
+    text-align: center;
+    padding-top: 12px;
+}
+.sna{
+    display:flex;
+    justify-content: space-evenly;
+}
+.on{
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.container8{
+    height: 70vh;
+}
+.swe{
+    display:flex;
+    justify-content: space-evenly;
+}
+.ono{
+    
+    background-color: orange;
+    color: white;
+    cursor: pointer;
+    border-radius: 12px;
+}
+.container9{
+    height: 70vh;
+    background-image: url(Rectangle\ 344\ \(2\).png);
+}
+.ccl{
+    color: white;
+    
+    
+}
+.con{
+    color: white;
+   
+    text-align: center;
+
+}
+.leg{
+    color: white;
+
+   text-align: center;
+    
+}
